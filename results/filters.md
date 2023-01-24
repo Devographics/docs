@@ -79,6 +79,10 @@ Facet Mode can be accessed using the tabs at the top of the Filters Panel, and i
 
 This can be quite useful to highlight demographic outliers, for example a podcast having a higher proportion of women listeners than the average. 
 
+Alternatively, you can switch units to **Count** to get the raw respondent counts without any normalization.
+
+<img width="700" alt="Count units" src="https://user-images.githubusercontent.com/358832/214199805-410ca154-3bb0-44bc-be25-8defbba4cd4f.png">
+
 ### Quantified Variables
 
 Some variables such as Yearly Salary, Age, etc. can be quantified, in other words a numerical amount can be assigned to each facet. 
@@ -88,4 +92,3 @@ Some variables such as Yearly Salary, Age, etc. can be quantified, in other word
 In this case, a sequential color scale will be used instead of random distinct colors, and you can also access the **average** of each bar:
 
 <img width="700" alt="Average view" src="https://user-images.githubusercontent.com/358832/214199631-8b14c22d-f02f-4d50-8663-711f1f1eb582.png">
-
