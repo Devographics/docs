@@ -2,7 +2,7 @@
 
 ## Accessing Filters
 
-Filters can be accessed by clicking the Filters icon in a chart's side tabs when it's available. Note that not all chart types support filters. 
+On surveys that support them (such as the [2022 State of JS Survey](https://2022.stateofjs.com/)), filters can be accessed by clicking the Filters icon in a chart's side tabs when it's available. Note that not all chart types support filters. 
 
 <img width="700" alt="Accessing filters" src="https://user-images.githubusercontent.com/358832/214194870-b1ba8a0d-8447-4d06-8c18-df0ec76c50b3.png">
 
