@@ -57,7 +57,7 @@ You can add **up to four** data series.
 
 ### Visualizing Your Filters
 
-Depending on the chart, your data series will be displayed in either **Combined Mode** or **Multiple Mode**. 
+Depending on the chart type, your data series will automatically be displayed in either **Combined Mode** (vertical bar charts) or **Multiple Mode** (other charts). 
 
 #### Combined Mode
 
@@ -65,4 +65,27 @@ Depending on the chart, your data series will be displayed in either **Combined 
 
 In combined mode, your data series are all displayed on the same chart. By default, the chart will switch to representing the "% of question respondents" unit. For example, a values of 10% for `gender is women` in bracket "1-2 years of experience" means that 10% of women respondents fell in that bracket. It does **not** mean that 10% of respondents with 1-2 years of experience are women (this is what Facet Mode is for, but more on that later). 
 
+#### Multiple Mode
+
+<img width="700" alt="Multiple Mode" src="https://user-images.githubusercontent.com/358832/214198075-3b0ad5cc-40ef-40ec-9aa2-8cd7eb967417.png">
+
+In Multiple Mode, multiple versions of the chart are displayed next to one another. This is especially useful for any kind of ranking-based chart. 
+
 ## Facet Mode
+
+Facet Mode can be accessed using the tabs at the top of the Filters Panel, and it lets you break down each bar of a chart into segments or "facets" corresponding to the variables you picked. 
+
+<img width="700" alt="Podcasts by Gender facet" src="https://user-images.githubusercontent.com/358832/214198450-014cff59-dc67-48a0-8f43-3150051b371e.png">
+
+This can be quite useful to highlight demographic outliers, for example a podcast having a higher proportion of women listeners than the average. 
+
+### Quantified Variables
+
+Some variables such as Yearly Salary, Age, etc. can be quantified, in other words a numerical amount can be assigned to each facet. 
+
+<img width="700" alt="Quantified variable" src="https://user-images.githubusercontent.com/358832/214198614-1db49f12-167b-49ab-a924-c74c9c953073.png">
+
+In this case, a sequential color scale will be used instead of random distinct colors, and you can also access the **average** of each bar:
+
+<img width="700" alt="Average view" src="https://user-images.githubusercontent.com/358832/214199631-8b14c22d-f02f-4d50-8663-711f1f1eb582.png">
+
