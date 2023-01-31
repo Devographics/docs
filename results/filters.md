@@ -19,7 +19,7 @@ When you first access the filters panel, you will be presented with a range of c
 #### UI Overview
 <img width="700" alt="The Filters panel" src="https://user-images.githubusercontent.com/358832/214195202-f934b051-3982-4129-9a6f-da37fb5aaecf.png">
 
-1. **Mode Switch**: switch between Filters and Facet mode.
+1. **Mode Switch**: switch between Side-by-Side/Combined and Facet mode.
 2. **Filter Presets**: click any preset to auto-fill the data series.
 3. **New Preset**: save your current filters definition as a new preset that you'll be able to easily reuse across all charts.
 4. **Default Series Toggle**: toggle the default series (the "default" chart representing the entirety of all survey respondents) on and off.
@@ -59,7 +59,7 @@ You can add **up to four** data series.
 
 ### Visualizing Your Filters
 
-Depending on the chart type, your data series will automatically be displayed in either **Combined Mode** (vertical bar charts) or **Multiple Mode** (other charts). 
+Depending on the chart type, your data series will automatically be displayed in either **Combined Mode** (vertical bar charts) or **Multiple Mode** (other charts).
 
 #### Combined Mode
 
