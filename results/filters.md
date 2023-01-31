@@ -6,13 +6,15 @@ On surveys that support them (such as the [2022 State of JS Survey](https://2022
 
 <img width="700" alt="Accessing filters" src="https://user-images.githubusercontent.com/358832/214194870-b1ba8a0d-8447-4d06-8c18-df0ec76c50b3.png">
 
-## Filters Mode
+## Side-by-Side/Combined Mode
 
-Filters are actually divided into two modes: regular filters mode, and "facet" mode. 
+Filters are actually divided into three modes: Side-by-Side mode, Combined mode, and Facet mode. 
 
-### The Filters Panel
+Side-by-Side and Combined modes use the same kind of filter definition but result in different views. 
 
-When you first access the Filters panel, you will be presented with a range of control that let you define what data series you want to compare. 
+### Filters Panel
+
+When you first access the filters panel, you will be presented with a range of control that let you define what data series you want to compare. 
 
 #### UI Overview
 <img width="700" alt="The Filters panel" src="https://user-images.githubusercontent.com/358832/214195202-f934b051-3982-4129-9a6f-da37fb5aaecf.png">
@@ -65,11 +67,11 @@ Depending on the chart type, your data series will automatically be displayed in
 
 In combined mode, your data series are all displayed on the same chart. By default, the chart will switch to representing the "% of question respondents" unit. For example, a values of 10% for `gender is women` in bracket "1-2 years of experience" means that 10% of women respondents fell in that bracket. It does **not** mean that 10% of respondents with 1-2 years of experience are women (this is what Facet Mode is for, but more on that later). 
 
-#### Multiple Mode
+#### Side-by-Side Mode
 
 <img width="700" alt="Multiple Mode" src="https://user-images.githubusercontent.com/358832/214198075-3b0ad5cc-40ef-40ec-9aa2-8cd7eb967417.png">
 
-In Multiple Mode, multiple versions of the chart are displayed next to one another. This is especially useful for any kind of ranking-based chart. 
+In Side-by-Side Mode, multiple versions of the chart are displayed next to one another. This is especially useful for any kind of ranking-based chart. 
 
 ## Facet Mode
 
